@@ -66,45 +66,13 @@ me = Developer()
 
 </div>
 
----
 
-## 🚀 `> featured_projects`
 
-### 🌫️ SmogShield
-AI-powered urban air quality awareness platform.
 
-- Real-time AQI monitoring
-- Outdoor activity guidance
-- Indoor air quality hacks
-- AI-powered assistant
-- Sustainable lifestyle insights
 
-**Built for:** PromptWars Challenge 6 – Hack2Skill
 
-### 🚑 PRAN – Patient Resource Allocation Network
-Emergency hospital coordination system concept.
 
-- Hospital bed availability coordination
-- Patient and ambulance workflows
-- Role-based dashboards
-- Healthcare-focused problem solving
 
-### 🤖 Harness AI
-AI agent reliability and self-correction concept.
-
-- Agent workflows
-- Reliability monitoring
-- Execution insights
-- Interactive dashboard
-
-### 🎪 Festora
-AI-powered event planning concept.
-
-- Generative AI
-- Event planning assistance
-- Prompt-based experiences
-
----
 
 ## 📊 `> github_stats`
 
