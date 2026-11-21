@@ -142,3 +142,9 @@ me = Developer()
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:301060,100:090014&height=110&section=footer" width="100%"/>
 
 </div>
+
+---
+
+## 🐍 My Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/annesabodhak/annesabodhak/output/github-contribution-grid-snake.svg)
